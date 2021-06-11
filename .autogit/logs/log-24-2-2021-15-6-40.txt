@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Wed Mar 24 2021 15:06:40 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/routers/user.js
+
+
+Created files:
+* .autogit/logs/log-24-2-2021-14-36-34.txt
+
+
+Deleted files:
+
+
+Renamed files:
